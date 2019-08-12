@@ -10,7 +10,7 @@ Once you are ready to contribute begin by navigating to our classroom [Wiki]http
 3. Under "Tailor Your Experiences" - skip this step (located at the bottom of the screen)
 4. Verify your email address via your Pitt email account - you will receive a verification email via GitHub - For more information regarding email verification please see https://help.github.com/articles/verifying-your-email-address/  
 5. Send your GitHub username/handle (example: @blahblah) to me via email.  
-6. Navigate to class repository - 
+6. Navigate to class repository - https://github.com/drherr/HIST1525-History-of-Mexico
 7. Click on “watch” (in upper right hand corner of class repository) in order for an email to be sent to you any time anyone updates something in our GitHub repository.  
 8. Click on “star” (also in upper right hand corner) so our class repository appears on your main GitHub dashboard/newsfeed.  
 9. Accept invitation from me to collaborate either via GitHub or your Pitt email.  
