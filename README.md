@@ -26,5 +26,6 @@ _**Example:** Dr. Pilar Herr, @drherr_
 Rebecca Parker, @RJP43 - **technical assistant** 
 
 _Alyssia Williams @arw85_
-Javin Melvin @jmelv
+Javin Melvin @jmelv  
+Tyler D'Ascenzo @tylerdascenzo
 
